@@ -1,3 +1,2 @@
 # hello-world
-first repository
-Here is a bit about myself.
+I'm going to make some big changes here, because I need to practice this system. Thanks!
